@@ -1,2 +1,3 @@
 - 👋 @edoardosartori
 - 📫 edoardo.sartori@hotmail.it
+- Computer Science at Università degli Studi di Parma
