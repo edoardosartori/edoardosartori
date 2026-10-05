@@ -8,3 +8,5 @@ actually need.
 
 A place to document my personal projects: desktop apps, Android apps and
 experiments. Most of my older code (coursework, practice exercises) is private.
+
+<meta name="google-site-verification" content="jZvRmLb22yuQEFn3UWlrEWyf2rbQ4bjwnaQ1UDZckpw" />
